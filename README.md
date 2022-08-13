@@ -21,3 +21,4 @@ I have to type python and the name of the project to be able to input informatio
 
 
 Credited: https://www.youtube.com/watch?v=DLn3jOsNRVE
+Other information: https://www.freecodecamp.org/news/python-vs-javascript-what-are-the-key-differences-between-the-two-popular-programming-languages/
